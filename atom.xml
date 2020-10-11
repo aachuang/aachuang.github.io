@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>aachuang的博客</title>
+  <title>阿创的博客</title>
   
   
   <link href="https://aachuang.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://aachuang.github.io/</id>
   
   <author>
-    <name>aachuang</name>
+    <name>achuang</name>
     
   </author>
   
