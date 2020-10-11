@@ -8,26 +8,26 @@
   </entry>
   <entry>
     <title>《鬼姬·雪女传》开发日志</title>
-    <url>/all/%E3%80%8A%E9%AC%BC%E5%A7%AC%C2%B7%E9%9B%AA%E5%A5%B3%E4%BC%A0%E3%80%8B%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
-    <content><![CDATA[<h1 id="《鬼姬·雪女传》开发日志"><a href="#《鬼姬·雪女传》开发日志" class="headerlink" title="《鬼姬·雪女传》开发日志"></a>《鬼姬·雪女传》开发日志</h1><p><img src="https://cdn.nlark.com/yuque/0/2020/gif/1394135/1600486138988-6432a9c0-b4e7-49cb-954e-39b8281131d4.gif#align=left&display=inline&height=720&margin=%5Bobject%20Object%5D&name=%E8%A7%92%E8%89%B2%E6%BC%94%E7%A4%BA.gif&originHeight=720&originWidth=1278&size=9586564&status=done&style=shadow&width=1278" alt="角色演示.gif"></p>
+    <url>/%E9%A1%B9%E7%9B%AE/%E3%80%8A%E9%AC%BC%E5%A7%AC%C2%B7%E9%9B%AA%E5%A5%B3%E4%BC%A0%E3%80%8B%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/</url>
+    <content><![CDATA[<p><img src="https://cdn.nlark.com/yuque/0/2020/gif/1394135/1600486138988-6432a9c0-b4e7-49cb-954e-39b8281131d4.gif#align=left&display=inline&height=720&margin=%5Bobject%20Object%5D&name=%E8%A7%92%E8%89%B2%E6%BC%94%E7%A4%BA.gif&originHeight=720&originWidth=1278&size=9586564&status=done&style=shadow&width=1278" alt="角色演示.gif"></p>
 <hr>
-<h2 id="🔨项目工作"><a href="#🔨项目工作" class="headerlink" title="🔨项目工作"></a>🔨项目工作</h2><p>《鬼姬·雪女传》是个人独立制作的关于妖怪雪女的互动游戏。本游戏项目中所有主要的美术资源、渲染效果和程序脚本逻辑全都由个人自己完成，其他运用到的非引擎本身的插件功能与美术素材会单独标出。</p>
-<h2 id="📔故事背景"><a href="#📔故事背景" class="headerlink" title="📔故事背景"></a>📔故事背景</h2><p>关于雪女的传说有十分多，其中有一种说法是：如果凡人在大雪纷飞的森林里迷失了方向，雪女就会以出现，并且雪女拥有十分惊艳的美丽外表，常常会将迷失的人诱惑到没人的地方，将其人体躯干完全冰冻起来，取走其灵魂食用。</p>
+<h1 id="🔨项目工作"><a href="#🔨项目工作" class="headerlink" title="🔨项目工作"></a>🔨项目工作</h1><p>《鬼姬·雪女传》是个人独立制作的关于妖怪雪女的互动游戏。本游戏项目中所有主要的美术资源、渲染效果和程序脚本逻辑全都由个人自己完成，其他运用到的非引擎本身的插件功能与美术素材会单独标出。</p>
+<h1 id="📔故事背景"><a href="#📔故事背景" class="headerlink" title="📔故事背景"></a>📔故事背景</h1><p>关于雪女的传说有十分多，其中有一种说法是：如果凡人在大雪纷飞的森林里迷失了方向，雪女就会以出现，并且雪女拥有十分惊艳的美丽外表，常常会将迷失的人诱惑到没人的地方，将其人体躯干完全冰冻起来，取走其灵魂食用。</p>
 <p>玩家扮演着在下着大雪的森林中迷路的樵夫，随后与雪女相遇….</p>
-<h2 id="🔮分镜桥段"><a href="#🔮分镜桥段" class="headerlink" title="🔮分镜桥段"></a>🔮分镜桥段</h2><p>主要参考此视频：</p>
+<p>#🔮分镜桥段<br>主要参考此视频：</p>
 <hr>
-<h2 id="📃开发日志"><a href="#📃开发日志" class="headerlink" title="📃开发日志"></a>📃开发日志</h2><h3 id="🕑第六周：十月"><a href="#🕑第六周：十月" class="headerlink" title="🕑第六周：十月"></a>🕑第六周：十月</h3><ul>
+<h1 id="📃开发日志"><a href="#📃开发日志" class="headerlink" title="📃开发日志"></a>📃开发日志</h1><h2 id="🕑第六周：十月"><a href="#🕑第六周：十月" class="headerlink" title="🕑第六周：十月"></a>🕑第六周：十月</h2><ul>
 <li>序列帧粒子系统原理的体积雾（序列帧素材来自于商店付费资源<a href="https://assetstore.unity.com/packages/vfx/particles/ultimate-vfx-26701?_aid=1100l3rZp">Ultimate VFX</a>）</li>
 <li>雪花粒子</li>
 </ul>
-<p><img src="https://cdn.nlark.com/yuque/0/2020/png/1394135/1602163642374-d80a22a5-8466-4780-97c9-346a395d8872.png#align=left&display=inline&height=451&margin=%5Bobject%20Object%5D&name=%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202020-10-08%20212221.png&originHeight=1081&originWidth=1918&size=2484511&status=done&style=shadow&width=800" alt="屏幕截图 2020-10-08 212221.png"></p>
+<p><img src="/%E9%A1%B9%E7%9B%AE/%E3%80%8A%E9%AC%BC%E5%A7%AC%C2%B7%E9%9B%AA%E5%A5%B3%E4%BC%A0%E3%80%8B%E5%BC%80%E5%8F%91%E6%97%A5%E5%BF%97/%E9%AC%BC%E5%A7%AC%E9%9B%AA%E5%A5%B3%E4%BC%A0%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87.png" alt="这是代替图片的文字，随便写"></p>
 <hr>
-<h3 id="🕑第五周：十月"><a href="#🕑第五周：十月" class="headerlink" title="🕑第五周：十月"></a>🕑第五周：十月</h3><ul>
+<h2 id="🕑第五周：十月"><a href="#🕑第五周：十月" class="headerlink" title="🕑第五周：十月"></a>🕑第五周：十月</h2><ul>
 <li>搁置，无奈修电脑 ╮(╯▽╰)╭</li>
 </ul>
 <p><img src="https://cdn.nlark.com/yuque/0/2020/jpeg/1394135/1602163434986-2748e3da-4302-482b-a67e-2f8e7298c7ac.jpeg#align=left&display=inline&height=468&margin=%5Bobject%20Object%5D&name=%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201008212341.jpg&originHeight=785&originWidth=587&size=71810&status=done&style=shadow&width=350" alt="微信图片_20201008212341.jpg"></p>
 <hr>
-<h3 id="🕑第四周：九月"><a href="#🕑第四周：九月" class="headerlink" title="🕑第四周：九月"></a>🕑第四周：九月</h3><ul>
+<h2 id="🕑第四周：九月"><a href="#🕑第四周：九月" class="headerlink" title="🕑第四周：九月"></a>🕑第四周：九月</h2><ul>
 <li>新场景（神社建筑、松树林与灯光渲染等）</li>
 <li>表面细分可互动雪地</li>
 <li>摄像机遮挡抖动透明</li>
@@ -35,63 +35,57 @@
 <li>头部IK跟随 
         <style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style>
         <div class="bbplayer">
-        <iframe class="bbplayer" id="mmedia-KBUEdLqU" src="//player.bilibili.com/player.html?bvid=BV1zA41177TG&page=1&high_quality=1&danmaku=true"
-            allowfullscreen="no"
-            scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
+        <iframe class="bbplayer" id="mmedia-DOqozYiu" src="//player.bilibili.com/player.html?bvid=BV1zA41177TG&page=1&high_quality=1&danmaku=true" allowfullscreen="no" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
         </div>
         <script>
-            document.getElementById("mmedia-KBUEdLqU").style.height=document.getElementById("mmedia-KBUEdLqU").scrollWidth*0.76+"px";
+            document.getElementById("mmedia-DOqozYiu").style.height=document.getElementById("mmedia-DOqozYiu").scrollWidth*0.76+"px";
             window.onresize = function(){
-              document.getElementById("mmedia-KBUEdLqU").style.height=document.getElementById("mmedia-KBUEdLqU").scrollWidth*0.76+"px";
+              document.getElementById("mmedia-DOqozYiu").style.height=document.getElementById("mmedia-DOqozYiu").scrollWidth*0.76+"px";
             };
         </script>
         
 </li>
 </ul>
 <hr>
-<h3 id="🕑第三周：九月"><a href="#🕑第三周：九月" class="headerlink" title="🕑第三周：九月"></a>🕑第三周：九月</h3><ul>
+<h2 id="🕑第三周：九月"><a href="#🕑第三周：九月" class="headerlink" title="🕑第三周：九月"></a>🕑第三周：九月</h2><ul>
 <li>法线传递的卡通3d模型树</li>
 <li>树与树叶飘动的渲染</li>
 <li>可交互的卡通水面</li>
 <li>角色的冰雪材质渲染
         <style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style>
         <div class="bbplayer">
-        <iframe class="bbplayer" id="mmedia-YLWlwWfX" src="//player.bilibili.com/player.html?bvid=BV15V41127Wk&page=1&high_quality=1&danmaku=true"
-            allowfullscreen="no"
-            scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
+        <iframe class="bbplayer" id="mmedia-OlTbMGCS" src="//player.bilibili.com/player.html?bvid=BV15V41127Wk&page=1&high_quality=1&danmaku=true" allowfullscreen="no" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
         </div>
         <script>
-            document.getElementById("mmedia-YLWlwWfX").style.height=document.getElementById("mmedia-YLWlwWfX").scrollWidth*0.76+"px";
+            document.getElementById("mmedia-OlTbMGCS").style.height=document.getElementById("mmedia-OlTbMGCS").scrollWidth*0.76+"px";
             window.onresize = function(){
-              document.getElementById("mmedia-YLWlwWfX").style.height=document.getElementById("mmedia-YLWlwWfX").scrollWidth*0.76+"px";
+              document.getElementById("mmedia-OlTbMGCS").style.height=document.getElementById("mmedia-OlTbMGCS").scrollWidth*0.76+"px";
             };
         </script>
         
 
 </li>
 </ul>
-<h3 id="🕑第二周：九月"><a href="#🕑第二周：九月" class="headerlink" title="🕑第二周：九月"></a>🕑第二周：九月</h3><ul>
+<h2 id="🕑第二周：九月"><a href="#🕑第二周：九月" class="headerlink" title="🕑第二周：九月"></a>🕑第二周：九月</h2><ul>
 <li>️新角色模型、纹理与骨骼的制作</li>
 <li>️unity中角色运动控制的实现</li>
 <li>️unity中角色头部、手部、脚部IK系统实现</li>
 <li>️unity中卡通水面的制作
         <style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style>
         <div class="bbplayer">
-        <iframe class="bbplayer" id="mmedia-yhWBwjVV" src="//player.bilibili.com/player.html?bvid=BV1jK411A7mG&page=1&high_quality=1&danmaku=true"
-            allowfullscreen="no"
-            scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
+        <iframe class="bbplayer" id="mmedia-FqciTByf" src="//player.bilibili.com/player.html?bvid=BV1jK411A7mG&page=1&high_quality=1&danmaku=true" allowfullscreen="no" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
         </div>
         <script>
-            document.getElementById("mmedia-yhWBwjVV").style.height=document.getElementById("mmedia-yhWBwjVV").scrollWidth*0.76+"px";
+            document.getElementById("mmedia-FqciTByf").style.height=document.getElementById("mmedia-FqciTByf").scrollWidth*0.76+"px";
             window.onresize = function(){
-              document.getElementById("mmedia-yhWBwjVV").style.height=document.getElementById("mmedia-yhWBwjVV").scrollWidth*0.76+"px";
+              document.getElementById("mmedia-FqciTByf").style.height=document.getElementById("mmedia-FqciTByf").scrollWidth*0.76+"px";
             };
         </script>
         
 </li>
 </ul>
 <hr>
-<h3 id="🕐第一周：九月"><a href="#🕐第一周：九月" class="headerlink" title="🕐第一周：九月"></a>🕐第一周：九月</h3><ul>
+<h2 id="🕐第一周：九月"><a href="#🕐第一周：九月" class="headerlink" title="🕐第一周：九月"></a>🕐第一周：九月</h2><ul>
 <li>角色模型的重新制作，因为精力有限，重新设计了偏LowPoly风格的人物角色，并且换为了4头身偏卡通比例</li>
 <li>角色的面部闭眼表情BlendShape制作</li>
 <li>Unity中初步的卡通渲染</li>
@@ -100,19 +94,20 @@
 
         <style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style>
         <div class="bbplayer">
-        <iframe class="bbplayer" id="mmedia-ZqLxOZYy" src="//player.bilibili.com/player.html?bvid=BV1Ur4y1c7H7&page=1&high_quality=1&danmaku=true"
-            allowfullscreen="no"
-            scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
+        <iframe class="bbplayer" id="mmedia-tHOXAJZv" src="//player.bilibili.com/player.html?bvid=BV1Ur4y1c7H7&page=1&high_quality=1&danmaku=true" allowfullscreen="no" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
         </div>
         <script>
-            document.getElementById("mmedia-ZqLxOZYy").style.height=document.getElementById("mmedia-ZqLxOZYy").scrollWidth*0.76+"px";
+            document.getElementById("mmedia-tHOXAJZv").style.height=document.getElementById("mmedia-tHOXAJZv").scrollWidth*0.76+"px";
             window.onresize = function(){
-              document.getElementById("mmedia-ZqLxOZYy").style.height=document.getElementById("mmedia-ZqLxOZYy").scrollWidth*0.76+"px";
+              document.getElementById("mmedia-tHOXAJZv").style.height=document.getElementById("mmedia-tHOXAJZv").scrollWidth*0.76+"px";
             };
         </script>
         
 <hr>
 ]]></content>
+      <categories>
+        <category>项目</category>
+      </categories>
   </entry>
   <entry>
     <title>Hello World</title>
