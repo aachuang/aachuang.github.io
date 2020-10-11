@@ -14,6 +14,20 @@
 <h2 id="📔故事背景"><a href="#📔故事背景" class="headerlink" title="📔故事背景"></a>📔故事背景</h2><p>关于雪女的传说有十分多，其中有一种说法是：如果凡人在大雪纷飞的森林里迷失了方向，雪女就会以出现，并且雪女拥有十分惊艳的美丽外表，常常会将迷失的人诱惑到没人的地方，将其人体躯干完全冰冻起来，取走其灵魂食用。</p>
 <p>玩家扮演着在下着大雪的森林中迷路的樵夫，随后与雪女相遇….</p>
 <h2 id="🔮分镜桥段"><a href="#🔮分镜桥段" class="headerlink" title="🔮分镜桥段"></a>🔮分镜桥段</h2><p>主要参考此视频：</p>
+
+        <style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style>
+        <div class="bbplayer">
+        <iframe class="bbplayer" id="mmedia-oNnIalZT" src="//player.bilibili.com/player.html?aid=60016166&page=1&high_quality=1&danmaku=true"
+            allowfullscreen="no"
+            scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
+        </div>
+        <script>
+            document.getElementById("mmedia-oNnIalZT").style.height=document.getElementById("mmedia-oNnIalZT").scrollWidth*0.76+"px";
+            window.onresize = function(){
+              document.getElementById("mmedia-oNnIalZT").style.height=document.getElementById("mmedia-oNnIalZT").scrollWidth*0.76+"px";
+            };
+        </script>
+        
 ]]></content>
   </entry>
   <entry>
